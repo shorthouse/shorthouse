@@ -21,7 +21,7 @@ The app is built using the latest [Android architecture components](https://deve
 
 ![CoinWatch Promo Image](https://github.com/shorthouse/shorthouse/assets/73708076/50ae7658-e929-4489-b172-0faed3dae9ce)
 
-### [RemindMe](https://github.com/shorthouse/CoinWatch)
+### [RemindMe](https://github.com/shorthouse/RemindMe)
 **RemindMe** is a reminder and task-management app designed to help you stay organised and on top of your to-do list.
 
 The app is also built using the latest [Android architecture components](https://developer.android.com/topic/architecture/recommendations).
