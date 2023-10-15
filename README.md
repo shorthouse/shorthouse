@@ -1,8 +1,8 @@
 Hey there 👋 
 
-❤️ I'm currently working on CoinWatch, a cryptocurrency tracker app
+👀 Check out my projects below!
 
-👀 Check out my Android projects below
+❤️ I'm currently working on CoinWatch, a cryptocurrency tracker app
 
 📫 Contact me at shorthousedev@gmail.com
 
