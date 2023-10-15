@@ -6,7 +6,7 @@ Hey there 👋
 
 📫 Contact me at shorthousedev@gmail.com
 
-## Android Apps
+## Projects
 ### [CoinWatch](https://github.com/shorthouse/CoinWatch)
 
 
