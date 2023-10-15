@@ -6,7 +6,7 @@ Hey there 👋
 
 👀 Check out my Android projects below! 
 
-## Apps
+## Android Apps
 ### [CoinWatch](https://github.com/shorthouse/CoinWatch)
 
 
