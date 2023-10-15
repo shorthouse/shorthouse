@@ -1,4 +1,3 @@
-## Overview
 Hey there 👋 
 
 ❤️ I'm currently working on CoinWatch, a cryptocurrency tracker app
