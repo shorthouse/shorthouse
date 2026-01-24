@@ -1,10 +1,8 @@
 Hey there 👋 
 
-❤️ I'm currently working on CoinWatch, a cryptocurrency tracker app
-
 📫 Contact me at shorthousedev@gmail.com
 
-👀 Check out my Jetpack Compose articles on [Medium](https://medium.com/@shorthousedev)
+👀 Check out my articles on [Medium](https://medium.com/@shorthousedev)
 
 ## Projects
 ### [CoinWatch](https://github.com/shorthouse/CoinWatch)
